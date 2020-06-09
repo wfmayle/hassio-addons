@@ -1,6 +1,6 @@
 # hassio-addons
 
-More add-ons for your Hass.io
+More add-ons for your Home Assistant.
 
 ## Installation
 
